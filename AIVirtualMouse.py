@@ -78,3 +78,5 @@ while True:
     # Step12: Display
     cv2.imshow("Image", img)
     cv2.waitKey(1)
+
+    Print("hie vivek")
